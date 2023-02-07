@@ -1,4 +1,4 @@
-# Power Deliverer
-Displays a list of the voltages and currents available from a USB-C power adapter and allows you to select one.
+# Power Deliverer with Current Monitor
+Allows you to select one of the voltages available from a USB-C power adapter, with a continuous display of the current consumption.
 
-For more information see: http://www.technoblogy.com/show?3Y8J
+For more information see: <http://www.technoblogy.com/show?441V>.
